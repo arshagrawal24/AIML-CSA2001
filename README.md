@@ -1,6 +1,6 @@
 # AI Real Estate Price Prediction Engine
 
-A beginner-friendly **Machine Learning project** that predicts house prices based on property features using **Linear Regression**.
+A **Machine Learning project** that predicts house prices based on property features using **Linear Regression**.
 
 ---
 
